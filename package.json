@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/sunt-reiciendis-necessitatibus-ratione",
-  "version": "3.3.47",
+  "version": "4.3.47",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -118,5 +118,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/sunt-reiciendis-necessitatibus-ratione/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
